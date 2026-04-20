@@ -1,0 +1,38 @@
+[
+    {
+        "category": "labor",
+        "amount": 2400,
+        "description": "fiur popoe",
+        "date": "2026-04-10"
+    },
+    {
+        "category": "labor",
+        "amount": 12000,
+        "description": "ten",
+        "date": "2026-04-10"
+    },
+    {
+        "category": "labr",
+        "amount": 1000,
+        "description": "two",
+        "date": "2026-04-16"
+    },
+    {
+        "category": "labor",
+        "amount": 2300,
+        "description": "gettin cleaned",
+        "date": "2026-04-16"
+    },
+    {
+        "category": "labor",
+        "amount": 12000,
+        "description": "",
+        "date": "2026-04-16"
+    },
+    {
+        "category": "material",
+        "amount": 12000,
+        "description": "bikae",
+        "date": "2026-04-16"
+    }
+]
